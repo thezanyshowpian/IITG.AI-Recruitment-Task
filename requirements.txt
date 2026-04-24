@@ -1,0 +1,1 @@
+pip install pandas numpy matplotlib seaborn lightgbm optuna openpyxl scikit-learn
